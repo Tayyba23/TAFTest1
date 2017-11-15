@@ -10,6 +10,7 @@ com\td\tafd\vo\SurrogateKey.class
 com\td\tafd\licensevalidation\LicenseController.class
 com\td\tafd\modules\di\DistinctCountTestAutomator.class
 com\td\tafd\vo\ModuleTimeInfo.class
+com\td\tafd\vo\FileSpecifications.class
 com\td\tafd\licensevalidation\LicenseView$1.class
 com\td\tafd\modules\ri\RITestAutomator.class
 com\td\tafd\vo\DuplicateDataVerification.class
@@ -43,6 +44,7 @@ com\td\tafd\modules\history\HistoryTestAutomator.class
 com\td\tafd\exceptions\ObjectNotFoundException.class
 com\td\tafd\modules\di\FileDataRetriever$1.class
 com\td\tafd\configuration\UserConfiguration$1.class
+com\td\tafd\vo\StepRowCountInfo.class
 com\td\tafd\validation\Validator.class
 com\td\tafd\vo\ExecutionStatusCheck.class
 com\td\tafd\vo\LookupValues.class
@@ -66,6 +68,7 @@ com\td\tafd\modules\di\MinMaxTestAutomator.class
 com\td\tafd\db\ApplicationDatabaseStructure.class
 com\td\tafd\html\ChartType.class
 com\td\tafd\vo\ReleasePackageInfo.class
+com\td\tafd\modules\rca\RootCauseAnalysis.class
 com\td\tafd\licensevalidation\LicenseView$2.class
 com\td\tafd\modules\dl\ScriptLevelRowCountTestAutomator.class
 com\td\tafd\modules\dl\ExecutionStatusTestAutomator.class

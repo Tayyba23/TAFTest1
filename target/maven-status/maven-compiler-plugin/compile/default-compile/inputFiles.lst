@@ -38,6 +38,7 @@ C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\core\JobTypePa
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\DuplicateDataVerification.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\TestScriptExecutionInfo.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\HistoryVerification.java
+C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\FileSpecifications.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\modules\dl\ScriptLevelRowCountTestAutomator.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\DuplicateColumnInfo.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\LicenseModel.java
@@ -54,6 +55,7 @@ C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\licensevalidat
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\ColumnAndDatatypeInfo.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\ds\DataSource.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\QueryGenerator.java
+C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\StepRowCountInfo.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\exceptions\MissingInformationException.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\exceptions\AccessViolationException.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\constants\ConstantsInterface.java
@@ -69,3 +71,4 @@ C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\modules\histor
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\vo\PreliminaryChecks.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\configuration\ApplicationConfiguration.java
 C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\exceptions\InvalidInformationException.java
+C:\Working_Directory\SVN Directory\TAFD\src\main\java\com\td\tafd\modules\rca\RootCauseAnalysis.java
